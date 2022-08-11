@@ -1,20 +1,20 @@
-GroundStudio Jade Pebble
+GroundStudio Jade Mega
 ====================================
-[![KASV939](https://user-images.githubusercontent.com/77836107/184095953-28df6d6f-3073-44e5-8bf5-e55cc28ea3c4.png)](https://ardushop.ro/ro/placi-de-dezvoltare/1724-placa-de-dezvoltare-jade-pebble.html)
+[![JJD2](https://user-images.githubusercontent.com/77836107/184108241-b74750f5-b2e4-4762-8bd2-644cda35937a.png)](https://ardushop.ro/ro/home/1729-placa-de-dezvoltare-jade-mega.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/placi-de-dezvoltare/1724-placa-de-dezvoltare-jade-pebble.html)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/1729-placa-de-dezvoltare-jade-mega.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-Development board based on SAMD21E18A.
+Development board based on ATmega2560.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/GroundStudio_Jade_Pebble/tree/main/Documentation) -- Pinout.
-* [/Hardware](https://github.com/GroundStudio/GroundStudio_Jade_Pebble/tree/main/Hardware) -- Schematics, layout.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Jade_Mega/tree/main/Documentation) -- Pinout.
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Jade_Mega/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
