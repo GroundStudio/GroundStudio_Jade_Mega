@@ -1,10 +1,10 @@
 GroundStudio Jade Mega
 ====================================
-[![JJD2](https://user-images.githubusercontent.com/77836107/184108241-b74750f5-b2e4-4762-8bd2-644cda35937a.png)](https://ardushop.ro/ro/home/1729-placa-de-dezvoltare-jade-mega.html)
+[![JJD2](https://user-images.githubusercontent.com/77836107/184108241-b74750f5-b2e4-4762-8bd2-644cda35937a.png)](https://ardushop.ro/en/development-boards/1937-groundstudio-jade-m1-6427854029508.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/plci-de-dezvoltare/1937-groundstudio-jade-m1-6427854029508.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/development-boards/1937-groundstudio-jade-m1-6427854029508.html)
 
-Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/ro/37-groundstudio)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
